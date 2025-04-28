@@ -6,7 +6,7 @@ const slidesData = [
   {
     imageUrl: 'images/page2.png',
     description: `The story of Kedarnath’s Pilgrimages begins with Lord Shiva, the destroyer. He is the God of Destruction, Time, Yoga, Meditation, and the Arts <a href='https://www.bbc.co.uk/religion/religions/hinduism/deities/shiva.shtml
-'>[1]</a>, among other things, one of the major deities of the Hindu pantheon of divine beings and one of the 3 Gods that cyclically create, maintain, and destroy the universe <a href='https://www.thebuddhagarden.com/shiva-hindu-god-destruction.html
+'>[1]</a>, among other things, one of the major deities of the Hindu pantheon of divine beings, and one of the 3 Gods that cyclically create, maintain, and destroy the universe <a href='https://www.thebuddhagarden.com/shiva-hindu-god-destruction.html
 ' target='_blank'>[2]</a>. In the story of Kedarnath, it is believed that he took the form of a bull and burrowed himself into the Earth, after having been angered by the Pandavas committing the sin of fratricide during the events of the <i>Mahabharata</i> <a href='https://www.namasteindiatrip.com/kedarnath-history.html'>[3]</a>.`,
     imageSources: "https://isha.sadhguru.org/mahashivratri/shiva/names-of-shiva-with-meaning/ and \nhttps://www.metmuseum.org/art/collection/search/77650 "
   },
