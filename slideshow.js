@@ -102,7 +102,6 @@ slidesData.forEach((item) => {
       textDiv.classList.add('small-text');
     }
   
-    // ✨ Create and add a title if it exists
     if (item.title) {
       const titleElement = document.createElement('h2');
       titleElement.className = 'slide-title';
