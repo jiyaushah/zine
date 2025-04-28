@@ -107,10 +107,6 @@ slidesData.forEach((item) => {
       titleElement.className = 'slide-title';
       titleElement.textContent = item.title;
       textDiv.appendChild(titleElement);
-      Object.assign(textDiv.style, {
-        alignItems: ''
-      }
-      )
     }
   
     const textContent = document.createElement('div');
